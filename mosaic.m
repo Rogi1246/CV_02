@@ -1,4 +1,4 @@
-function panorama
+function mosaic
   %assignment by :
   %Group F
   %Vanessa Retz(117380), Lennard Gabriel(118147), Florian Batze(119135)
